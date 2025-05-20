@@ -1,0 +1,72 @@
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:[PID 24784] Starting: https://www.coursera.org/articles/what-is-machine-learning
+INFO:root:[PID 5724] Starting: https://deepai.org/machine-learning-glossary-and-terms/machine-learning
+INFO:root:[PID 20308] Starting: https://ischool.syracuse.edu/what-is-machine-learning/
+INFO:root:[PID 21528] Starting: https://en.wikipedia.org/wiki/Machine_learning
+INFO:root:[PID 5724] Finished: https://deepai.org/machine-learning-glossary-and-terms/machine-learning in 0.3s
+INFO:root:[PID 5724] Starting: https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained
+INFO:root:[PID 21528] Finished: https://en.wikipedia.org/wiki/Machine_learning in 0.52s
+INFO:root:[PID 21528] Starting: https://www.geeksforgeeks.org/machine-learning/
+INFO:root:[PID 24784] Finished: https://www.coursera.org/articles/what-is-machine-learning in 0.56s
+INFO:root:[PID 24784] Starting: https://www.datacamp.com/blog/what-is-machine-learning
+INFO:root:[PID 24784] Finished: https://www.datacamp.com/blog/what-is-machine-learning in 0.17s
+INFO:root:[PID 24784] Starting: https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-ml/
+INFO:root:[PID 21528] Finished: https://www.geeksforgeeks.org/machine-learning/ in 0.38s
+INFO:root:[PID 21528] Starting: https://www.ibm.com/think/topics/machine-learning
+INFO:root:[PID 24784] Finished: https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-ml/ in 0.41s
+INFO:root:[PID 24784] Starting: https://www.cloudflare.com/learning/ai/what-is-machine-learning/
+INFO:root:[PID 24784] Finished: https://www.cloudflare.com/learning/ai/what-is-machine-learning/ in 0.14s
+INFO:root:[PID 21528] Finished: https://www.ibm.com/think/topics/machine-learning in 0.41s
+INFO:root:[PID 20308] Finished: https://ischool.syracuse.edu/what-is-machine-learning/ in 1.46s
+INFO:root:[PID 5724] Finished: https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained in 2.13s
+INFO:primp:response: https://html.duckduckgo.com/html 200
+INFO:root:[PID 26992] Starting: https://bloggers.feedspot.com/data_science_blogs/
+INFO:root:[PID 25828] Starting: https://www.tableau.com/learn/articles/data-science-blogs
+INFO:root:[PID 28248] Starting: https://towardsdatascience.com/
+INFO:root:[PID 27488] Starting: https://www.analyticsvidhya.com/blog/2024/02/data-science-blogs/
+INFO:root:[PID 28248] Finished: https://towardsdatascience.com/ in 0.4s
+INFO:root:[PID 28248] Starting: https://365datascience.com/trending/51-data-science-blogs/
+INFO:root:[PID 25828] Finished: https://www.tableau.com/learn/articles/data-science-blogs in 0.41s
+INFO:root:[PID 26992] Finished: https://bloggers.feedspot.com/data_science_blogs/ in 0.61s
+INFO:root:[PID 27488] Finished: https://www.analyticsvidhya.com/blog/2024/02/data-science-blogs/ in 1.73s
+INFO:root:[PID 28248] Finished: https://365datascience.com/trending/51-data-science-blogs/ in 1.47s
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+WARNING:huggingface_hub.file_download:Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:[PID 26824] Starting: https://www.medicalnewstoday.com/articles/271157
+INFO:root:[PID 20880] Starting: https://www.britannica.com/plant/banana-plant
+INFO:root:[PID 28528] Starting: https://en.wikipedia.org/wiki/Banana
+INFO:root:[PID 26360] Starting: https://www.healthline.com/nutrition/11-proven-benefits-of-bananas
+INFO:root:[PID 20880] Finished: https://www.britannica.com/plant/banana-plant in 0.39s
+INFO:root:[PID 20880] Starting: https://www.healthline.com/nutrition/foods/bananas
+INFO:root:[PID 26824] Finished: https://www.medicalnewstoday.com/articles/271157 in 0.49s
+INFO:root:[PID 28528] Finished: https://en.wikipedia.org/wiki/Banana in 0.47s
+INFO:root:[PID 26360] Finished: https://www.healthline.com/nutrition/11-proven-benefits-of-bananas in 0.5s
+INFO:root:[PID 20880] Finished: https://www.healthline.com/nutrition/foods/bananas in 0.34s
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:primp:response: https://lite.duckduckgo.com/lite/ 200
+INFO:root:[PID 12924] Starting: https://health.clevelandclinic.org/benefits-of-bananas
+INFO:root:[PID 10916] Starting: https://www.verywellhealth.com/banana-benefits-11702772
+INFO:root:[PID 648] Starting: https://en.wikipedia.org/wiki/Banana
+INFO:root:[PID 14032] Starting: https://www.healthline.com/nutrition/11-proven-benefits-of-bananas
+INFO:root:[PID 12924] Finished: https://health.clevelandclinic.org/benefits-of-bananas in 0.22s
+INFO:root:[PID 12924] Starting: https://www.healthline.com/nutrition/foods/bananas
+INFO:root:[PID 10916] Finished: https://www.verywellhealth.com/banana-benefits-11702772 in 0.41s
+INFO:root:[PID 648] Finished: https://en.wikipedia.org/wiki/Banana in 0.42s
+INFO:root:[PID 14032] Finished: https://www.healthline.com/nutrition/11-proven-benefits-of-bananas in 0.46s
+INFO:root:[PID 12924] Finished: https://www.healthline.com/nutrition/foods/bananas in 0.53s
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+INFO:primp:response: https://html.duckduckgo.com/html 200
+INFO:root:[PID 19232] Starting: https://health.clevelandclinic.org/benefits-of-bananas
+INFO:root:[PID 25632] Starting: https://www.britannica.com/plant/banana-plant
+INFO:root:[PID 27652] Starting: https://en.wikipedia.org/wiki/Banana
+INFO:root:[PID 26252] Starting: https://www.healthline.com/nutrition/11-proven-benefits-of-bananas
+INFO:root:[PID 19232] Finished: https://health.clevelandclinic.org/benefits-of-bananas in 0.18s
+INFO:root:[PID 19232] Starting: https://www.healthline.com/nutrition/foods/bananas
+INFO:root:[PID 25632] Finished: https://www.britannica.com/plant/banana-plant in 0.31s
+INFO:root:[PID 27652] Finished: https://en.wikipedia.org/wiki/Banana in 0.43s
+INFO:root:[PID 26252] Finished: https://www.healthline.com/nutrition/11-proven-benefits-of-bananas in 0.47s
+INFO:root:[PID 19232] Finished: https://www.healthline.com/nutrition/foods/bananas in 0.57s
