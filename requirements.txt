@@ -1,2 +1,14 @@
+streamlit
+pandas
 requests
 beautifulsoup4
+duckduckgo-search
+tqdm
+matplotlib
+wordcloud
+transformers
+torch
+keybert
+rake-nltk
+nltk
+sentence-transformers
