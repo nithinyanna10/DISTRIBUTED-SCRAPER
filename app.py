@@ -5,6 +5,11 @@ import time
 from pathlib import Path
 import sys
 from urllib.parse import urlparse
+import matplotlib
+matplotlib.use("Agg")
+
+import matplotlib.pyplot as plt
+from wordcloud import WordCloud
 
 # NLP & Visualization imports
 import os
